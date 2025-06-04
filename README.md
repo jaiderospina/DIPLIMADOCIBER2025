@@ -1,3 +1,3 @@
 # DIPLIMADO CIBERSEGURIDAD Y CIBERDEFENSA 2025 - 1
 
-![PORTADA](images/portada.jpg)
+![PORTADA](IMAGES/portada.jpg)

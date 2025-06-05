@@ -71,8 +71,7 @@ Desde entonces, Maia ya no confiaba en los espejos.
 En una red lateral, una cuenta que no aparecía en ningún inventario seguía activa. No hacía nada. Solo existía. Como una cicatriz invisible. Como un mensaje para quien supiera mirar.
 
 **---**
-**---**
----
+
 ### Taller No 2.
 
 De mnera individual investigar que es **Virus Total** e identificas casos de uso.

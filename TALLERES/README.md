@@ -73,3 +73,7 @@ En una red lateral, una cuenta que no aparecía en ningún inventario seguía ac
 **---**
 **---**
 ---
+### Taller No 2.
+
+De mnera individual investigar que es **Virus Total** e identificas casos de uso.
+- **Virus Total** (https://www.virustotal.com/learn/)

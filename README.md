@@ -12,7 +12,7 @@ El objetivo de esta pirámide es ayudar a los analistas de seguridad a centrarse
 
 ---
 
-# **Perfil de amenazas**
+# **Perfilado de amenazas**
 
 El perfilado de amenazas (Threat Profiling) en ciberseguridad, clasifica a los atacantes según su sofisticación, recursos, objetivos y el impacto potencial de sus ataques. La pirámide va desde los actores menos sofisticados y de menor impacto (en la base) hasta los más avanzados y peligrosos (en la cima).
 

@@ -10,6 +10,9 @@ La Pirámide del Dolor en ciberseguridad es un modelo conceptual creado por Davi
 El objetivo de esta pirámide es ayudar a los analistas de seguridad a centrarse en los indicadores que realmente afectan las capacidades del atacante, no solo en los más fáciles de identificar.
 ![PORTADA](IMAGES/piramide.jpg)
 
+**Actividad**
+Identifique sobre cada uno de los niveles estrategías de detección y/o contensión. 
+
 ---
 
 # **Perfilado de amenazas**

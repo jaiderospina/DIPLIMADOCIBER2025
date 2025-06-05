@@ -13,6 +13,9 @@ El objetivo de esta pirámide es ayudar a los analistas de seguridad a centrarse
 **Actividad**
 Identifique sobre cada uno de los niveles estrategías de detección y/o contensión. 
 
+Recurso
+- (https://excalidraw.com/#room=9e41b550e81dd539fdbe,wRoW9o2wOQJZhDy5R79xYA)
+
 ---
 
 # **Perfilado de amenazas**

@@ -1,3 +1,9 @@
 # DIPLOMADO CIBERSEGURIDAD Y CIBERDEFENSA 2025 - 1
 
 ![PORTADA](IMAGES/portada.jpg)
+
+
+![PORTADA](IMAGES/piramide.jpg)
+
+
+![PORTADA](IMAGES/perfil.jpg)

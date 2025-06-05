@@ -54,8 +54,6 @@ Activó manualmente un protocolo de cuarentena sobre los nodos que servían de p
 
 En los servidores comprometidos, los procesos comenzaron a autodestruirse. El código malicioso fue diseñado para cubrir sus huellas. Quedaban rastros, sí, pero eran difusos. Un patrón roto. Un rompecabezas sin piezas claves.
 
----
-
 Días después, una investigación interna confirmaría lo que Maia ya sabía: la infraestructura de GlassNet había sido comprometida. El informe hablaba de una “intrusión compleja”, sin especificar los métodos. Pero Maia entendía la lógica detrás del ataque. Era como si alguien hubiera seguido un manual de guerra silenciosa.
 
 Pensó en cada fase. El acercamiento inicial, la forma en que se plantó la semilla, la conexión con su curiosidad como ingeniera. La progresión metódica. El silencio del ataque.
@@ -64,15 +62,13 @@ Y entonces recordó las palabras de su mentor: *"Los mejores ataques son simétr
 
 Desde entonces, Maia ya no confiaba en los espejos.
 
----
-
 ### Epílogo
 
 En una red lateral, una cuenta que no aparecía en ningún inventario seguía activa. No hacía nada. Solo existía. Como una cicatriz invisible. Como un mensaje para quien supiera mirar.
 
 ---
 
-### Taller No 2.
+# Taller No 2.
 
 De mnera individual investigar que es **Virus Total** e identificas casos de uso.
 - **Virus Total** (https://www.virustotal.com/learn/)

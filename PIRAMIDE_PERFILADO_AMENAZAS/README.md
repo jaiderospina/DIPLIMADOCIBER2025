@@ -1,7 +1,9 @@
 ## Perfilado de amenazas (Threat Profiling)
 
+
 La piramide de  **perfilado de amenazas (Threat Profiling)** en ciberseguridad, clasifica a los atacantes según su sofisticación, recursos, objetivos y el impacto potencial de sus ataques. La pirámide va desde los actores menos sofisticados y de menor impacto (en la base) hasta los más avanzados y peligrosos (en la cima).
 
+![PORTADA](IMAGES/perfil.jpg)
 ### Estructura de la Pirámide
 
 - **Base (Tier I):** Atacantes de bajo nivel, como "script kiddies" y actores no maliciosos.
@@ -47,4 +49,3 @@ A medida que se asciende en la pirámide:
 
 La pirámide ilustra cómo los actores de amenazas varían en sofisticación, motivación y potencial de daño, lo que exige diferentes estrategias y tecnologías de defensa según el nivel de amenaza al que se enfrenta una organización. Esta clasificación ayuda a priorizar recursos y estrategias de ciberseguridad de acuerdo con el perfil de riesgo de cada entidad.
 
-[1] https://pplx-res.cloudinary.com/image/private/user_uploads/6990759/53c9c2e3-98ea-4ecf-b2fa-3c29b312c69f/image.jpg

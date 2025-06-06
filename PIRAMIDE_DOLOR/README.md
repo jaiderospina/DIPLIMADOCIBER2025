@@ -174,3 +174,8 @@ Aquí tienes una **tabla de la Pirámide del Dolor aplicada al caso SolarWinds (
 
 Este caso reafirma que **apuntar a los niveles superiores de la Pirámide del Dolor es clave para neutralizar amenazas APT sofisticadas**. Las organizaciones que integraron detecciones de TTPs (como detección de uso anómalo de DNS, comportamiento de procesos firmados, y tráfico irregular desde Orion) **lograron mitigaciones más efectivas** que aquellas que solo aplicaron listas de hashes o dominios.
 
+
+**Referencias**
+
+- https://www.picussecurity.com/resource/glossary/what-is-pyramid-of-pain
+- 

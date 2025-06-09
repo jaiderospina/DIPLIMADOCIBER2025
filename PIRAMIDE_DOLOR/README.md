@@ -141,7 +141,7 @@ Estos casos reales demuestran que:
 
 Por eso, las organizaciones maduras en ciberseguridad integran frameworks como **MITRE ATT\&CK**, **detección basada en comportamiento**, y **threat hunting proactivo** para ir más allá de los indicadores simples.
 
-Aquí tienes una **tabla de la Pirámide del Dolor aplicada al caso SolarWinds (SUNBURST)**, donde se ilustran los indicadores utilizados durante la respuesta al incidente y el nivel de "dolor" que causaron al atacante:
+**Pirámide del Dolor aplicada al caso SolarWinds (SUNBURST)**, donde se ilustran los indicadores utilizados durante la respuesta al incidente y el nivel de "dolor" que causaron al atacante:
 
 ---
 

@@ -1,6 +1,6 @@
 ## Manual de Configuración Básica de Git
 
-### Índice
+### Índice.
 
 1. [Introducción](#introducción)
 2. [Instalación de Git](#instalación-de-git)

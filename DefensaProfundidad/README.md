@@ -1,6 +1,9 @@
 **Trabajo en Grupo**
 
-Desarrollar y documentar en github el siguiente reto.
+Desarrollar y documentar en github el siguiente reto.  
+
+**Nota**
+Por cada grupo de trabajo crear una carpeta con un README con la resolución.
 
 ---
 

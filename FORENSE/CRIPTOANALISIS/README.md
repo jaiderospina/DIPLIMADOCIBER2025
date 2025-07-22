@@ -34,17 +34,17 @@ En resumen, el criptoanálisis es el arte y la ciencia de romper códigos y sist
 **CrackStation.net** es un servicio en línea popular y una herramienta de criptoanálisis que se utiliza principalmente para **romper hashes de contraseñas**. Su función principal es revertir funciones hash comunes (como MD5, SHA1, etc.) a sus contraseñas originales en texto plano, utilizando una gran base de datos de "rainbow tables" y otras técnicas de descifrado.
 
 ### ¿Para qué sirve CrackStation?
----
+
 * **Recuperación de Contraseñas:** Permite a los usuarios intentar recuperar contraseñas de las que solo se tiene el valor hash. Esto puede ser útil en escenarios legítimos, como la recuperación de una contraseña olvidada de un sistema propio, o en escenarios de seguridad, para auditar la fortaleza de las contraseñas.
 * **Auditoría de Seguridad:** Los profesionales de la seguridad y los pentesters utilizan CrackStation para probar la robustez de los hashes de contraseñas y determinar si las contraseñas utilizadas son débiles y fácilmente descifrables. Si un hash puede ser craqueado por CrackStation, indica que la contraseña asociada es vulnerable.
 * **Análisis Forense:** En el ámbito forense, puede ser utilizado para intentar descifrar hashes de contraseñas encontrados en sistemas comprometidos, ayudando en la investigación de incidentes de seguridad.
 
 ### ¿Cómo funciona (de forma general)?
----
+
 Cuando se ingresa un hash en CrackStation, el servicio lo compara con su vasta base de datos de hashes precalculados (rainbow tables) que mapean hashes a sus contraseñas originales. Si se encuentra una coincidencia, se devuelve la contraseña en texto plano. También se pueden emplear técnicas de fuerza bruta o ataques de diccionario si el hash no se encuentra directamente en sus tablas.
 
-### Ejemplo detallado de uso
----
+### Ejemplo de uso
+
 Un administrador de sistemas podría imaginar que encuentra un hash de contraseña en un archivo de configuración antiguo y necesita saber cuál era la contraseña original para una cuenta de prueba creada hace mucho tiempo. El hash es `21232f297a57a5a743894a0e4a801fc3` y se sabe que es un hash MD5.
 
 1.  **Acceso a CrackStation:** Se abre el navegador web y se navega a `https://crackstation.net/`.
@@ -58,7 +58,7 @@ Un administrador de sistemas podría imaginar que encuentra un hash de contrase�
 Si el hash `21232f297a57a5a743894a0e4a801fc3` corresponde a una contraseña común o ha sido precalculado en las tablas de CrackStation, la herramienta mostrará la contraseña original en texto plano. En este caso, el hash `21232f297a57a5a743894a0e4a801fc3` corresponde a la contraseña `admin`.
 
 ### Consideraciones importantes
----
+
 * **Legalidad y Ética:** El uso de herramientas de cracking de contraseñas debe realizarse siempre de manera legal y ética, con el consentimiento explícito del propietario del sistema o de la información. Su uso no autorizado para acceder a sistemas ajenos es ilegal.
 * **Contraseñas Complejas:** CrackStation, como cualquier herramienta de cracking, es más efectiva contra contraseñas débiles, cortas o comunes. Contraseñas largas, complejas y aleatorias son mucho más difíciles, si no imposibles, de descifrar con este tipo de servicios.
 * **Rainbow Tables:** Las "rainbow tables" son colecciones masivas de hashes precalculados. Cuanto más grande y completa sea la tabla, mayor será la probabilidad de encontrar una coincidencia.

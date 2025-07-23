@@ -1,4 +1,4 @@
-## DATA CAVING
+## DATA CARVING
 
 El **Data Carving** es una técnica esencial en informática forense y recuperación de datos que permite extraer archivos e información de dispositivos de almacenamiento, incluso cuando los sistemas de archivos están dañados, han sido eliminados o formateados. A diferencia de los métodos tradicionales de recuperación de archivos, que se basan en la información de los metadatos del sistema de archivos (como la tabla de asignación de archivos o la tabla de particiones), el data carving **ignora estas estructuras y analiza directamente los datos brutos** del dispositivo.
 

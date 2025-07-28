@@ -1,23 +1,12 @@
-# Recovering Deleted Files - Forensics :detective:
+# Práctica.
 
-* Did you know that even deleting a file from a device, it remains accessible? Did you know that we can recover this data? With this concept of file recovery, we can also mention the problems of leakage and unauthorized data access when a **HD/SSD/PENDRIVE** is discarded incorrectly. The people who may be looking for this data are called **Dumpster Diving**.
-
-> [!IMPORTANT]
-The **Dumpster diving** is looking for treasure in someone else's trash. In the world of information technology (IT), dumpster diving is a technique used to retrieve information that could be used to carry out an attack or gain access to a computer network from disposed items.
-
-<p align="center">
-  <img width="400" height="400" src="./img/1.png">
-</p>
-
-* In this document we will use one of the forensic techniques used to recover and analyze system files. For the study, we will **Create** and **Remove** files on drive 'E:', below.
+* Pra efectos de esta práctica se empleará una de las técnicas forenses para recuperar y analizar archivos del sistema. Para el estudio, **Crearemos** y **Eliminaremos** archivos en la unidad «E:», como se muestra a continuación.
 
 <p align="center">
   <img width="400" height="180" src="./img/5.png">
 </p>
 
-# What will we use :question:
-
-* In our study we will use 2 programs, one to create an image of the target disk and the other to analyze this data.
+# Programas: 
 
     * **FTK Imager** - FTK Imager es una herramienta gratuita de análisis forense digital. Cuenta con funciones específicas para la adquisición de evidencia derivada de unidades de almacenamiento. En este caso, utilizaremos la versión para Windows, disponible en[FTK Imager](https://www.exterro.com/ftk-product-downloads/ftk-imager-version-4-7-1)
 

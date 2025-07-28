@@ -8,19 +8,21 @@
 
 # Programas: 
 
-    * **FTK Imager** - FTK Imager es una herramienta gratuita de análisis forense digital. Cuenta con funciones específicas para la adquisición de evidencia derivada de unidades de almacenamiento. En este caso, utilizaremos la versión para Windows, disponible en[FTK Imager](https://www.exterro.com/ftk-product-downloads/ftk-imager-version-4-7-1)
+**FTK Imager** - FTK Imager es una herramienta gratuita de análisis forense digital. Cuenta con funciones específicas para la adquisición de evidencia derivada de unidades de almacenamiento. En este caso, utilizaremos la versión para Windows, disponible en
+    
+ - [FTK Imager](https://www.exterro.com/ftk-product-downloads/ftk-imager-version-4-7-1)
 
-    <p align="center">
-        <img width="110" height="120" src="./img/2.png">
-    </p>
 
-    * **Autopsy** -Autopsy es una herramienta para el personal de primera respuesta cibernética en casos de intrusiones, escenas de crímenes y zonas de guerra. Se utilizará junto con FTK para analizar los datos generados. Está disponible para Windows.e [Autopsy](https://www.autopsy.com/download/)
+
+**Autopsy** -Autopsy es una herramienta para el personal de primera respuesta cibernética en casos de intrusiones, escenas de crímenes y zonas de guerra. Se utilizará junto con FTK para analizar los datos generados. Está disponible para Windows  en 
+- [Autopsy](https://www.autopsy.com/download/)
+
 
     <p align="center">
         <img width="400" height="100" src="./img/3.png">
     </p>
     
-# Disk Image :cd:
+# Imágen.
 
 * Un archivo de imagen de disco contiene una copia bit a bit de una unidad de disco. Una copia bit a bit guarda todos los datos de un archivo de imagen de disco, incluidos los metadatos, en un solo archivo. Para este paso, usaremos **FTK Imager**.
 
@@ -55,7 +57,7 @@
     <img width="420" height="300" src="./img/10.png">
 </p>
 
-# Recovering the Files :floppy_disk:
+# Reuperación de los archivos:
 
 * Después de generar los archivos de evidencia con FTK Imager, podemos analizar y recuperar los archivos eliminados con Autopsy. ¡Vamos!
 
